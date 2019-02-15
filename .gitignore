@@ -1,0 +1,6 @@
+# Source Directories
+_docs/
+_builds/
+
+# Dependency directories
+node_modules/
